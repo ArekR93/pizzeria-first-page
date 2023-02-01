@@ -5,7 +5,7 @@
     box-sizing: inherit;;
 }
 body{
-    background-image: url(zdjecia/tlo.jpg);
+    background-image: url(tlo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -135,7 +135,7 @@ ul li:last-child{
     top:70px;
     width: 50%;
     max-height:80%;
-    background-image: url("zdjecia/headerimg.jpg");
+    background-image: url("headerimg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     
